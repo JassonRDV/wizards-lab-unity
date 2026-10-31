@@ -44,3 +44,7 @@ A stylized wizard laboratory scene built in Unity with the Universal Render Pipe
 ## Scope
 
 The repository contains a visual scene and supporting art assets. There are no C# gameplay scripts in the inspected project tree.
+
+## Contact
+
+[Jasson Ramos on LinkedIn](https://www.linkedin.com/in/jassonramos/)
